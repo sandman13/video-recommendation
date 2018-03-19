@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sandmandemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sandman-demo.war">
+      <element id="artifact" artifact-name="sandmandemo:war exploded" />
+    </root>
+  </artifact>
+</component>
